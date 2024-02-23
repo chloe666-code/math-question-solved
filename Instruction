@@ -1,0 +1,5 @@
+This program will read in three integers representing a student's scores on three tests. 
+The program will determine if these three scores are valid. If the scores are valid, the program will classify the scores in various ways. 
+The program will determine if three scores are same. 
+The program will round the score and determine if rounded three scores are same. 
+When the program process all dataset, it will display the number of dataset, number of valid dataset, and number of invalid dataset
